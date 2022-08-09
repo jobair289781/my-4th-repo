@@ -3,8 +3,10 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 10px;
     text-align: center;
+    border: 2px solid gray;
 }
 p{
     border-radius: 10px;
     text-align: justify;
+    border: 2px solid gray;
 }
