@@ -1,0 +1,10 @@
+h1{
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    text-align: center;
+}
+p{
+    border-radius: 10px;
+    text-align: justify;
+}
